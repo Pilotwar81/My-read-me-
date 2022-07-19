@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilotwar81&label=Profile%20views&color=0e75b6&style=flat" alt="pilotwar81" /> </p>
 
-- 🌱 I’m currently learning **HTML,Python,lua,Js,Game development,3d designing**
+- ⌨️ I can code : ** Html, css, Js, python, Lua **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pilotwar81](https://github.com/Pilotwar81)
 
 - 📫 How to reach me **yehiaislamsaad@gmail.com**
 
 - ⚡ Fun fact || I have 14 years old ||
+
+- ⚡ Another Fun fact that ¦¦ I am a raspeberry pi owner ¦¦ 
+
+- 🤫 lastly : take care from me I know *(hacking)* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
