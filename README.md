@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yehiaislamsaad@gmail.com**
 
-- ⚡ Fun fact **I think I am funny #iknowiwillbetrolled, I have 13 years old **
+- ⚡ Fun fact || I have 14 years old ||
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
