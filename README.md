@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehia islam</h1>
-<h4 align="center">A Tech nerd from Egypt who lives in ksa  <br><br> FLL challenge winner among ksa</h3>
+<h4 align="center">A Tech nerd from Egypt who lived in ksa  <br><br> FLL challenge winner among ksa</h3>
 
 - ⌨️ I can code : ** Html, css, Js, python, Lua **
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yehiaislamsaad@gmail.com**
 
-- ⚡ Fun fact || I have 14 years old ||
+- ⚡ Fun fact || I have 15 years old ||
 
 - ⚡ Another Fun fact that ¦¦ I am a raspeberry pi owner ¦¦ 
 
