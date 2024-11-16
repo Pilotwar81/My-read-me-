@@ -21,7 +21,7 @@
 - 🤝 **Co-founder of a Hack Club:** Leading students in innovative programming and electronics projects 💡💻
 - 🌐 **Completed Course:** 🧠 **[Elements of AI](https://www.elementsofai.com/)** by the University of Helsinki
 - 🛠️ **Side Hustles:** Providing tech services like design 🎨 and online computer servicing 🖥️
-- 🤩 **Fun Fact:** I’m just 15, but already a proud Raspberry Pi owner! 🍓
+- 🤩 **Fun Fact:** I’m just 16, but already a proud Raspberry Pi owner! 🍓
 - 🕵️‍♂️ **Hacker Alert:** I know a bit about *(hacking)*, so watch out! 🕶️💻
 
 ### 📫 How to Reach Me:
