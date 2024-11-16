@@ -6,11 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-16-blue" alt="Age Badge">
-  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Unixporn%20Fan-0078D6?logo=windows&logoColor=white" alt="Operating Systems Badge">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white" alt="Editor Badge">
-  <img src="https://img.shields.io/badge/Notion-Productivity%20Tool-black?logo=notion&logoColor=white" alt="Notion Badge">
-  <img src="https://img.shields.io/badge/Arduino%20%26%20RaspberryPi-Projects-orange?logo=raspberrypi&logoColor=white" alt="Arduino and Raspberry Pi Badge">
-  <img src="https://img.shields.io/badge/Linux%20Homelab-Setup-green?logo=linux&logoColor=white" alt="Linux Homelab Badge">
 </p>
 
 - 🎂 **Born on:** [October 29, 2008](https://www.timeanddate.com/date/birthday.html?d1=29&m1=10&y1=2008) 🗓️
