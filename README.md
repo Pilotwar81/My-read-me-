@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-15-blue" alt="Age Badge">
+  <img src="https://img.shields.io/badge/Age-16-blue" alt="Age Badge">
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Unixporn%20Fan-0078D6?logo=windows&logoColor=white" alt="Operating Systems Badge">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&logoColor=white" alt="Editor Badge">
   <img src="https://img.shields.io/badge/Notion-Productivity%20Tool-black?logo=notion&logoColor=white" alt="Notion Badge">
@@ -40,7 +40,7 @@
 <p align="left">
   <a href="https://www.facebook.com/yehia.islam.104" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yehia Islam Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_yehia.islam_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yehia Islam Instagram" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/yehia-islam-0992521b5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Yehia Islam LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yehia-islam-0992521b5/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Yehia Islam LinkedIn" height="30" width="40" /></a>
 </p>
 
 ### ☕ Support My Work:
