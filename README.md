@@ -10,7 +10,7 @@
 
 - 🎂 **Born on:** [October 29, 2008](https://www.timeanddate.com/date/birthday.html?d1=29&m1=10&y1=2008) 🗓️
 - 💻 **I Can Code In:** 🖥️ **HTML, CSS, JavaScript, Python, Lua** 🚀
-- 🖥️ **Operating Systems I Use:** Windows 🪟, Linux 🐧 (Homelab Setup) 🏠, and I’m a fan of Unix customization (Unixporn 🌈)
+- 🖥️ **Operating Systems I Use:** Windows , Linux 🐧 (Homelab Setup) 🏠, and I’m a fan of Unix customization (Unixporn 🌈)
 - ✍️ **Productivity:** I organize my tasks and projects using **Notion** 📝
 - 🧑‍🔧 **Hardware Projects Using:** Arduino 🛠️ and Raspberry Pi 🍓
 - 🏆 **Competitions:** Participated in:
